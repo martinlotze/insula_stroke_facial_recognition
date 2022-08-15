@@ -1,2 +1,2 @@
-# insula_stroke_facial_recognition
+# Insula stroke and facial recognition
 Facial recognition in patients affected by insula stroke
